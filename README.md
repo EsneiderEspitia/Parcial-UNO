@@ -1,4 +1,4 @@
-# Parcial UNO - Programación II (G411) - UNIAJC
+# Parcial I - Programación II (G411) - UNIAJC
 
 **Institución:** Institución Universitaria Antonio José Camacho (UNIAJC)  
 **Asignatura:** Programación II 
